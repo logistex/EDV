@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*.md
+*.aux
+*.log
+*.out
+*.pdf
+*.synctex(busy)
+*.tex
+*.zip
+*.mp4
+*.ini
